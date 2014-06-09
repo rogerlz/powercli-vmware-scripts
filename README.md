@@ -1,14 +1,18 @@
-powecli-scripts
-===============
+PowerCLI-Scripts
+=========
 
-VMware PowerCLI Scripts
------------------------
+Here is some VMware PowerCLI Scripts
 
-- **auto-create-dvs-portgroups.ps1**
-	Simple script to auto create DVS Portgroups based in an range of VLANs
+  - auto-create-dvs-portgroups.ps1
+  - clone-vss-to-vds-portgroups.ps1
+  - move-vm-between-clusters.ps1
 
-- **clone-vss-to-vds-portgroups.ps1**
-	Simple script do clone VSS Portgroups to DVS
 
-- **move-vm-between-clusters.ps1**
-	Simple script to automate vMotion of VMs between clusters 
+Usage
+--------------
+
+```
+open VMware PowerCLI
+connect to vcenter using Connect-VIServer
+run script using .\scriptname.ps1
+```
