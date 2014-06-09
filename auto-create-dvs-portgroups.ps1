@@ -1,6 +1,6 @@
 #
 # Very simple script in VMware PowerCLI to auto create DVS portgroups using same prefix
-# Author = Rogerio Goncalves <rogerlz@gmail.com
+# Author = Rogerio Goncalves <rogerlz@gmail.com>
 # http://vchallenge.me
 #
 # Ps: this example is using the range 600-800 of vlans. 

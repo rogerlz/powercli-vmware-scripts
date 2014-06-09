@@ -1,6 +1,6 @@
 #
 # Very simple script in VMware PowerCLI to clone VSS PortGroups to DVS Switch
-# Author = Rogerio Goncalves <rogerlz@gmail.com
+# Author = Rogerio Goncalves <rogerlz@gmail.com>
 # http://vchallenge.me
 #
 
